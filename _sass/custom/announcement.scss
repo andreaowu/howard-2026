@@ -1,0 +1,15 @@
+.announcement {
+  @extend %card;
+
+  h1, h2 {
+    @extend .text-gamma;
+  }
+
+  .announcement-meta {
+    @extend .text-epsilon;
+  }
+
+  .main-content .module, .module {
+    box-shadow: 2px 2px 2px #212121;
+  }
+}

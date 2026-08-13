@@ -1,0 +1,11 @@
+---
+layout: page
+title: Calendar
+description: The weekly event schedule.
+---
+
+## Class Calendar
+
+Lectures, labs, office hours, exams, and other events can be found on this calendar.
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&title=Fisk%20CSCI%20110%20Fall%202023&src=ZGQxMjgwM2VhNTdhYjJiZjk1ZTNhNTA3YjVjMGY2YWQ3YTMwM2RlY2JkZWZmYTQ3NGE5MDFjMTE3N2IzMzc3ZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=YmVhODc1NjI1ZmM2ODhmYjUyOWE3ZGI3YWQ2NGM2NTI4OTAwNjcxMzg4ZWY0ZDRhNTJkZDE3NDliNGQwMWIwZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MDkwZjc0NzQ0OWZkY2Y0NDJmODk1NjdmZWQyZGNhYjBhYzRhM2Y5NjQ0ZTRmYTcxNGYzMGMxMTNmMmMxMTIxMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MjBhZGQ3M2Q0NzUwNTAxMmQ0NzI1MWUzODk0Y2RlMmY4YTg3YTZhYzE1YzkzMTEyZGUzN2UyNmEyOWVjNDIxZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MzYxNGEwOTVlN2ZkMTc5ZjQwOGViZWZiNjFkYjY0YzQ4OTI0Y2U2YWJkNzA5MjNiZDY2OWM0MWViY2NmY2U2MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MzY0MTQwNDc3MTg0MmI5OTU4NzdkZWYzYWY0YTVlNzU4ZmU1NjYxYjU4NWE5ZjI0MWI5ODc4MjNjMzMwMThiMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MGM4OWExMzZlMDgxMjU5MDYzZmEyYjdiNTkzOTk1ZjdjNmE4ZTY0ZjM5NTBkYzY3ZmE1ZmMwNDc3MTI5NTU1OUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F4511E&color=%234285F4&color=%23039BE5&color=%23E67C73&color=%233F51B5&color=%237CB342&color=%230B8043&mode=WEEK" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
