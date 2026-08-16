@@ -18,36 +18,36 @@ description: >-
 ## Overview
 CSCI 110 is an introductory class designed for students with no formal exposure to computer science or programming. The goal is to provide a gentle but thorough introduction to computer science that will prepare students to either take further computer science courses or use computer science in their field of study.
 
-By the end of the course, students will learn
- - Variables, Expressions, Types
- - Input/Output
- - Logic and Control Flow
+By the end of the course, students will learn:
+ - Data Types, Variables, Expressions, Operators
+ - Input and Output
+ - Conditionals
+ - While and for loops
  - Functions
- - Lists, Dictionaries, Sets
- - Testing, Asserts
- - Runtime and efficiency
- - Objects and Classes
+ - Strings, Lists, Dictionaries, Sets
+ - Debugging, Testing, Styling
+ - Applications of computer science
 
 ### Class Model
-This class uses a flipped classroom model, where [lecture videos](https://youtube.com/@csci110) will be sent out before class that you must watch. **You will be expected to have watched the videos the day before class and completed the associated video assignments**. This is part of your grade, and you are required to do them **before class**! Classtime will then be spent on answering your questions on the material and working through practice problems.
+This class uses a flipped classroom model, where [lecture videos](https://youtube.com/@introtocs) will be sent out before class that you must watch. **You will be expected to have watched the videos the day before class and completed the associated video assignments**. This is part of your grade, and you are required to do them **before class**! Class time will then be spent on answering your questions on the material, doing a brief review, and working through practice problems.
 
 ## Course Schedule
-Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md). Instructor and Fisk TA office hours will be held on the Library 3rd floor.
+Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md). Instructor office hours will be held in [Downing Hall](https://maps.app.goo.gl/UmRnTaY6SpjUBa4c8) in room 1022A.
 
 ### Lecture
-Lecture will be held in Library 317 on Mondays, Wednesdays, and Fridays. Lecture will be focused on practicing concepts by doing problems, and you will be able to ask your professor and TA for help. There are three sections and each student must attend one of them:
-- MWF 9AM-9:55AM
-- MWF 11AM-11:55AM
-- MWF 2PM-2:55PM
+Lecture will be held in [Mackey Building](https://maps.app.goo.gl/MU2VdGg9m6uNkKHM7). Lecture will be focused on practicing concepts by doing problems, and you will be able to ask your professor and TAs for help. There are three sections and each student must attend one of them:
+- Section 01: MW 12:10PM-1:30PM
+- Section 02: MW 10:10AM-11:30AM
+- Section 03: TTh 12:10PM-1:30PM
 
 ### Lab
-Labs will be held in Library 317 on Tuesdays. There are three sections for labs and each student must attend one of them:
-- T 9AM-9:55AM
-- T 11AM-11:55AM
-- T 1PM-1:55PM
+Labs will be held in [Mackey Building](https://maps.app.goo.gl/MU2VdGg9m6uNkKHM7). There are three sections for labs and each student must attend one of them:
+- Section 01: M 2PM-4PM
+- Section 02: W 2PM-4PM
+- Section 03: T 9AM-11AM
 
 ### Office Hours
-We will hold a mixture of in-person and virtual office hours at a wide variety of times. Virtual office hours held by Googler TA's will be held on Google Meet, and the link can be found at the [course schedule page](schedule.md). In-person office hours for the instructor and Fisk TA's will be held in Andrea's office. You are welcome to come for any reason, including course material questions, lecture clarifications, industry interview prep, career path discussions, or just to hang out (and eat snacks!). 
+Andrea and possibly the TA's will hold office hours in Andrea's office: [Downing Hall](https://maps.app.goo.gl/UmRnTaY6SpjUBa4c8) in room 1022A. You are welcome to come for any reason, including course material questions, lecture clarifications, industry interview prep, career path discussions, or just to hang out (and eat snacks!). 
 
 As a course, we commit to making sure no student fails the class due to lack of class resources, so if you are behind or confused, please reach out for help. The course staff will make themselves as available as possible to help you.
 
