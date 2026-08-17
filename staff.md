@@ -18,8 +18,8 @@ For a quicker response on homework or project help, please ask on [EdStem](https
 {% assign howard_teaching_assistants = site.staffers | where: 'role', 'Tech Fellow' %}
 {% assign num_howard_teaching_assistants = howard_teaching_assistants | size %}
 {% if num_howard_teaching_assistants != 0 %}
-## Howard Tech Fellows
-Think of these as TA’s (teacher’s assistants). They are employed by Codepath, and these are students that went through your position. You’ll see them in lectures and labs to help answer questions, office hours if Andrea's office hours aren’t enough, and they'll be helping a lot behind the scenes.
+## Codepath Tech Fellows
+Think of these as TA’s (teacher’s assistants). They are employed by Codepath, and these are students that went through your position. You’ll see them in lectures and labs to help answer questions, office hours if Andrea's office hours aren’t enough, and behind-the-scenes helping with the course.
 
 {% for staffer in howard_teaching_assistants %}
 {{ staffer }}
