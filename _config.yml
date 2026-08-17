@@ -30,13 +30,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Edstem:
-    - 'https://edstem.org/us/courses/41289/discussion/'
+    - 'https://edstem.org/us/courses/100767/discussion/'
   Youtube:
-    - 'https://youtube.com/@csci110'
-  Feedback:
-    - 'https://forms.gle/E8DAjWtYQAtR6nNZ6'
-  Allow list:
-    - 'https://docs.google.com/document/d/10p3AmO5frXTwk4oARQ67SFZ-XCcPgFNJnkKWi1jPegk'
+    - 'https://youtube.com/@introtocs'
 footer_content:
 
 # Collections for website data
