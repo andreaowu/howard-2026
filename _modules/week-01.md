@@ -15,3 +15,7 @@ Lecture 2
 
 : **HW**{: .label .label-green } [Codepath form](https://edstem.org/us/courses/100767/lessons/177473/slides/1037380), [Data Types](https://edstem.org/us/courses/100767/lessons/177473/slides/1036175), [Expressions](https://edstem.org/us/courses/100767/lessons/177473/slides/1036176){:target="_blank"}
   : Due: Aug 23
+
+: **HW**{: .label .label-green } 
+[Introduce yourself!](https://edstem.org/us/courses/100767/lessons/177473/slides/1037380){:target="_blank"}
+  : Due: Aug 23
