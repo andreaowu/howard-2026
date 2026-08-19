@@ -13,7 +13,7 @@ Lecture 2
 : **Videos**{: .label .label-blue }[Arithmetic Operators](https://edstem.org/us/courses/100767/lessons/175969)
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GRTGMSjzFLnVYmmHNY-Xa45){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1UG3Q6XLwuHX8Ug9lmKPEkkDSvtCGPduJDXoiD3mkbqs){:target="_blank"}\]
 
-For the week
+Week
 : **HW**{: .label .label-green } [Codepath form](https://edstem.org/us/courses/100767/lessons/177473/slides/1037380), [Data Types](https://edstem.org/us/courses/100767/lessons/177473/slides/1036175), [Expressions](https://edstem.org/us/courses/100767/lessons/177473/slides/1036176){:target="_blank"}
   : Due: Aug 23
 
