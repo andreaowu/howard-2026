@@ -2,7 +2,7 @@
 title: Week 2
 ---
 
-Lecture 1:
+Lecture 1
 : **Videos**{: .label .label-blue }[Variables](https://edstem.org/us/courses/100767/lessons/175970)
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GSNNc0gToqTux7IvS9E4Z91){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/18VibgtBz5bWzNzRMdYcqX4U7CnAoTepEnddurexzrBE){:target="_blank"}\]
 : **Videos**{: .label .label-blue }[Input / Output](https://edstem.org/us/courses/100767/lessons/175971)
