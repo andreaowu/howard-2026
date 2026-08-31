@@ -18,3 +18,6 @@ Assignments
 
 : **HW**{: .label .label-green }[Conditionals](https://edstem.org/us/courses/100767/lessons/178062){:target="_blank"}
   : Due: Sept 6
+
+: **Project**{: .label .label-yellow }[CSV Files: Part 1](https://edstem.org/us/courses/100767/lessons/179837){:target="_blank"}
+  : Due: Sept 6
