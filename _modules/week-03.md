@@ -11,6 +11,8 @@ Lecture 2
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GSptVem4I4CvTylQFSkGlCz){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1V2f-yjT5Ccg3Q5h-kFLBdIptEFL_dNzJdQxgN_2Ew3g){:target="_blank"}\]
 : **Videos**{: .label .label-blue }[Strings](https://edstem.org/us/courses/100767/lessons/175976)
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GTf8oULGIYDBH1gqZaB2R51){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1YJ0i9PtQGZpYgZ4iL1wVcdDVXs05Cg0uPYuhYsqpNmc){:target="_blank"}\]
+: **Lecture**{: .label .label-yellow }How to approach coding problems
+  : [[slides](https://docs.google.com/presentation/d/1kqAvxkX_BMW_H3JfjEL5VziW9d8ZvQjngatTkvenui8){:target="_blank"}\]
 
 Assignments
 : **Lab**{: .label .label-purple }[Lab 3](https://edstem.org/us/courses/100767/lessons/179838){:target="_blank"}
