@@ -10,3 +10,13 @@ Lecture 2
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GR2UaaHiTk7NwXcMHwsDfFt){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1RQE3JzxIXqQgx4u5scyKDrnmRqrD3ZWhzNR1NJnAlKQ){:target="_blank"}\]
 : **Videos**{: .label .label-blue }[More Strings](https://edstem.org/us/courses/100767/lessons/175977)
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GRiEk9b12JTANzzYGcSyP3v){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1N3Dq5NfW5lPfXKFTqTFNhLXVJyuAxazT4O1fDItA2ME){:target="_blank"}\]
+
+Assignments
+: **Lab**{: .label .label-purple }[Lab 4](https://edstem.org/us/courses/100767/lessons/181076){:target="_blank"}
+  : Due: Sept 11
+
+: **HW**{: .label .label-green }[While Loops and Strings](https://edstem.org/us/courses/100767/lessons/178063){:target="_blank"}
+  : Due: Sept 13
+
+: **Project**{: .label .label-yellow }[CSV Files: Part 2](https://edstem.org/us/courses/100767/lessons/181348){:target="_blank"}
+  : Due: Sept 13
