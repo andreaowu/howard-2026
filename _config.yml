@@ -33,6 +33,8 @@ aux_links:
     - 'https://edstem.org/us/courses/100767/discussion/'
   Youtube:
     - 'https://youtube.com/@introtocs'
+  Allow list:
+    - 'https://docs.google.com/document/d/10p3AmO5frXTwk4oARQ67SFZ-XCcPgFNJnkKWi1jPegk'
 footer_content:
 
 # Collections for website data
