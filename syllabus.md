@@ -86,10 +86,10 @@ Here is the grade breakdown:
 Homework and labs are designed for you to practice and learn. Make all the mistakes you want and learn how to fix them - truly learn how to fix them, because you're going to have to be able to do so on exams.
 
 The less you use AI, the better you will do in this class. I know these are AI-able:
-Homework and lab - 1% of the total grade
-Video assignments - 4% of the total grade (randomly getting called in class is 3% total)
-Projects (oral exam for all concepts / code) - 10% total
-Paper exams (mostly writing code) - 85% total
+- Homework and lab - 1% of the total grade
+- Video assignments: 4% of the total grade (randomly getting called in class is 3% total)
+- Projects: 10% total (oral exam for all concepts / code is 8% total)
+- Paper exams (mostly writing code): 85% total (quizzes 5%, 2 midterms and final exam 80%)
 
 ### Assignments
 These details are subject to change during the semester, however the current plan of record is the following:
