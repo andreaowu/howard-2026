@@ -81,7 +81,7 @@ Here is the grade breakdown:
 - Labs: 0.5%
 - Video assignments: 4%
 - Projects: 10%
-- Exams: 85%
+- Exams: 85% (quizzes 5%, midterm 1 is 21%, midterm 2 is 26%, final exam 33%)
 
 Homework and labs are designed for you to practice and learn. Make all the mistakes you want and learn how to fix them - truly learn how to fix them, because you're going to have to be able to do so on exams.
 
