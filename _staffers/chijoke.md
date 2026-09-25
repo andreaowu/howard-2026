@@ -1,7 +1,6 @@
 ---
 name: Chijoke Alim
 role: Tech Fellow
-email: TBD
 photo: chijoke.jpg
 ---
 
