@@ -1,7 +1,7 @@
 ---
 name: Andrea Wu (she / her)
 role: Instructor
-email: andrea.wu@codepath.org
+email: andrea.wu@howard.edu
 photo: andrea.jpg
 ---
 
