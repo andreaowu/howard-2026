@@ -1,7 +1,6 @@
 ---
 name: Malachi Mitchell
 role: Tech Fellow
-email: TBD
 photo: malachi.jpg
 ---
 
