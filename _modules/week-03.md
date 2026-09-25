@@ -15,7 +15,7 @@ Lecture 2
   : [[slides](https://docs.google.com/presentation/d/1kqAvxkX_BMW_H3JfjEL5VziW9d8ZvQjngatTkvenui8){:target="_blank"}\]
 
 Assignments
-: **Lab**{: .label .label-purple }[Lab 3](https://edstem.org/us/courses/100767/lessons/179838){:target="_blank"}
+: **Lab**{: .label .label-purple }[Lab 3: Blackjack Part 1](https://edstem.org/us/courses/100767/lessons/179838){:target="_blank"}
   : Due: Sept 4
 
 : **HW**{: .label .label-green }[Conditionals](https://edstem.org/us/courses/100767/lessons/178062){:target="_blank"}
