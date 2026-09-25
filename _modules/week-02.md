@@ -13,7 +13,7 @@ Lecture 2
   : \[[videos](https://www.youtube.com/playlist?list=PLWGqLlpet_GSzjE3RettCKYQSZRkjmxqd){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1LkLEFToWUJgAwXst97tEeB3xxpJsQfZnWDdv82Sbo7M){:target="_blank"}\]
 
 Assignments
-: **Lab**{: .label .label-purple }[Lab 2](https://edstem.org/us/courses/41289/lessons/72365/slides){:target="_blank"}
+: **Lab**{: .label .label-purple }[Lab 2: Variables](https://edstem.org/us/courses/41289/lessons/72365/slides){:target="_blank"}
   : Due: Aug 28
 
 : **HW**{: .label .label-green }[Variables, I/O, Operators](https://edstem.org/us/courses/100767/lessons/178061){:target="_blank"}
