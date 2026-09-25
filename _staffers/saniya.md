@@ -1,7 +1,6 @@
 ---
 name: Saniya Licorish
 role: Tech Fellow
-email: TBD
 photo: saniya.jpg
 ---
 
