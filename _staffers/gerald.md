@@ -1,7 +1,6 @@
 ---
 name: Gerald Williams
 role: Tech Fellow
-email: TBD
 photo: gerald.jpg
 ---
 
