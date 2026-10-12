@@ -18,3 +18,6 @@ Assignments
 
 : **HW**{: .label .label-green }[Testing](https://edstem.org/us/courses/100767/lessons/178066){:target="_blank"}
   : Due: Oct 11
+
+: **Project**{: .label .label-green }[CYOA: Part 1](https://edstem.org/us/courses/100767/lessons/184155)
+  : Due: Oct 11
