@@ -16,5 +16,5 @@ Assignments
   : Due: Oct 18
 : **HW**{: .label .label-green }[Lists](https://edstem.org/us/courses/41289/lessons/78034){:target="_blank"}
   : Due: Oct 18
-: **Project**{: .label .label-green }[CYOA: Part 2](https://edstem.org/us/courses/41289/lessons/78021)
+: **Project**{: .label .label-green }[CYOA: Part 2](https://edstem.org/us/courses/100767/lessons/185205)
   : Due: Oct 18
